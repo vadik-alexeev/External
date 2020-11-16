@@ -32,10 +32,7 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=0D6F512A-5CE5-4992-AA23-F02B5D1E14AB
-VaultGUID=9434F85E-4678-4559-AF56-20A2A6E4193C
-ReleaseVaultName=AdminTest
-ItemGUID=0D6F512A-5CE5-4992-AA23-F02B5D1E14AB
+ManagedProjectGUID=
 IncludeDesignInRelease=0
 
 [Preferences]
