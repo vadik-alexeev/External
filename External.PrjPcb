@@ -29,13 +29,10 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-IsProjectConflictPreventionWarningsEnabled=0
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=852EBB46-C00E-4BC8-BF42-6F43BB6E13ED
-VaultGUID=146917E9-543B-42EF-AB46-E560FA49EF2F
-ReleaseVaultName=TestEU
-ItemGUID=852EBB46-C00E-4BC8-BF42-6F43BB6E13ED
+ManagedProjectGUID=
 IncludeDesignInRelease=0
 
 [Preferences]
