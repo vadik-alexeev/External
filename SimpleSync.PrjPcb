@@ -32,10 +32,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=3EB87889-11DD-4844-A910-152AF92164AC
+ManagedProjectGUID=6E20F27B-2053-45B1-8C3A-24B4AD727441
 VaultGUID=60BF83D7-8541-4EE7-BE5C-9EC30E7A8773
 ReleaseVaultName=InUse
-ItemGUID=3EB87889-11DD-4844-A910-152AF92164AC
+ItemGUID=6E20F27B-2053-45B1-8C3A-24B4AD727441
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -57,41 +57,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LJITFFKI
-
-[Document2]
-DocumentPath=Sheet2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UOTRCDVJ
-
-[Document3]
-DocumentPath=Sheet3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DGWJGVDB
+DocumentUniqueId=TTCXBSQJ
 
 [Configuration1]
 Name=Sources
@@ -957,7 +923,7 @@ MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
-Type124=3
+Type124=1
 Type125=1
 
 [ERC Connection Matrix]
