@@ -32,6 +32,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
+ManagedProjectGUID=1DFF68A1-7917-41B2-9616-3A7C803BBA2B
+VaultGUID=D59C765A-C04D-41DD-8E69-BA46C47BB45F
+ReleaseVaultName=GitTest
+ItemGUID=1DFF68A1-7917-41B2-9616-3A7C803BBA2B
 IncludeDesignInRelease=0
 
 [Preferences]
